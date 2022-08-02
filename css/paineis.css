@@ -1,0 +1,50 @@
+.painel-caixas {
+	padding-top: 40px;
+	background-color: #EF7247;
+}
+
+.painel-caixas .sobre-caixas {
+	text-align: center;
+	color: white;
+	padding: 0 0 10px 0;
+}
+
+.painel-caixas .titulo {
+	font-size: 40px;
+	margin-bottom: 16px;
+}
+
+.painel-caixas .subtitulo {
+	font-size: 32px;
+}
+
+.painel-caixas .caixas{
+	text-align: center;
+}
+
+.painel-caixas .caixa {
+	background:  white;
+	display: inline-block;
+	margin: 0 16px 32px 0;
+	padding: 18px;
+	border-radius: 10px;
+	width: 220px;
+	vertical-align: top;
+}
+
+.painel-caixas .caixa-imagem {
+	border-radius: 50%;
+}
+
+.painel-caixas .caixa-nome {
+	margin-top: 10px;
+}
+
+.painel-caixas .caixa-bio {
+	font-weight: bold;
+	margin-top: 12px;
+}
+
+.painel-caixas .caixa-discurso {
+	margin-top: 12px;
+}

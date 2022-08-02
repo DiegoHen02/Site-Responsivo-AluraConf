@@ -1,0 +1,14 @@
+.painel-form {
+	margin-top: 32px;
+}
+
+.painel-form .titulo {
+	font-size: 32px;
+	color: #EF7247;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.button-place {
+	text-align: center;
+}
